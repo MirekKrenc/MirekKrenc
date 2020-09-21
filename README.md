@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Mirek Krenc. I work as system administrator and software developer. I do like to learn new things. Currently I am into Spring Framework and technologies around it. 
+
+Linkedin - https://www.linkedin.com/in/miroslaw-krenc/
+
 <!--
 **MirekKrenc/MirekKrenc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
