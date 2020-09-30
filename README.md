@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Mirek Krenc. I work as systems administrator and software developer. I do like to learn new things. I am currently fascinated by Spring Framework and the technologies around it. 
+I am Mirek Krenc. I work as systems administrator and software developer. I do like to learn new things. I am currently into Spring Framework and the technologies around it. 
 
 Linkedin - https://www.linkedin.com/in/miroslaw-krenc/
 
